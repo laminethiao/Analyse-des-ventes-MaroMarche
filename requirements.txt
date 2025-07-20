@@ -4,5 +4,5 @@ pandas
 numpy
 plotly
 seaborn
-fbprophet
+prophet
 scikit-learn
